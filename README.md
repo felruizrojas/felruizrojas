@@ -4,14 +4,6 @@ Soy **Ingeniero en Informática** en formación, con experiencia en desarrollo d
 
 ---
 
-### 📊 Estadísticas de GitHub
-![Visitas al perfil](https://komarev.com/ghpvc/?username=FelipeRuiz&label=Profile%20views&color=0e75b6&style=plastic)  
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeRuiz&layout=compact&theme=tokyonight)  
-![Estadísticas generales](https://github-readme-stats.vercel.app/api?username=FelipeRuiz&show_icons=true&theme=tokyonight)  
-![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=FelipeRuiz&theme=tokyonight)  
-
----
-
 ### 🚀 Tecnologías y herramientas
 **Lenguajes y frameworks:**
 - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
@@ -34,3 +26,11 @@ Soy **Ingeniero en Informática** en formación, con experiencia en desarrollo d
 ### 📬 Conéctate conmigo
 - [LinkedIn](https://www.linkedin.com/)  
 - **Correo:** tuemail@example.com
+
+### 📊 Estadísticas de GitHub
+![Visitas al perfil](https://komarev.com/ghpvc/?username=FelipeRuiz&label=Profile%20views&color=0e75b6&style=plastic)  
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeRuiz&layout=compact&theme=tokyonight)  
+![Estadísticas generales](https://github-readme-stats.vercel.app/api?username=FelipeRuiz&show_icons=true&theme=tokyonight)  
+![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=FelipeRuiz&theme=tokyonight)  
+
+---
