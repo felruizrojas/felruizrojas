@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Felipe Andrés Ruiz Rojas
 
-Soy **Ingeniero en Informática** en formación, con experiencia en desarrollo de proyectos y pasión por la programación y las matemáticas.
+Soy **Ingeniero en Informática** en formación.
 
 ---
 
@@ -17,15 +17,17 @@ Soy **Ingeniero en Informática** en formación, con experiencia en desarrollo d
 ---
 
 ### 🎯 Áreas de interés
-- Ciencia de datos y análisis.
-- Desarrollo de aplicaciones de escritorio.
+- Ciencia de datos.
 - Inteligencia artificial.
+- Desarrollo de software.
 
 ---
 
 ### 📬 Conéctate conmigo
 - [LinkedIn](https://www.linkedin.com/)  
 - **Correo:** tuemail@example.com
+
+
 
 ### 📊 Estadísticas de GitHub
 ![Visitas al perfil](https://komarev.com/ghpvc/?username=FelipeRuiz&label=Profile%20views&color=0e75b6&style=plastic)  
