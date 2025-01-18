@@ -4,9 +4,9 @@
 ### I’m a computer engineering student.
 
 ##
-![Software Development](https://img.shields.io/badge/Software_Development-Active-green)
-![Neurosciences](https://img.shields.io/badge/Neurosciences-Active-blue)
-![Data Science](https://img.shields.io/badge/Data_Science-Active-orange)
+![Software Development](https://img.shields.io/badge/Software_Development-green)
+![Neurosciences](https://img.shields.io/badge/Neurosciences-blue)
+![Data Science](https://img.shields.io/badge/Data_Science-orange)
 [![Status](https://img.shields.io/badge/status-updating-brightgreen.svg)](https://github.com/felruizrojas/felruizrojas)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=felruizrojas)
 [![Contributors](https://img.shields.io/github/contributors/felruizrojas/felruizrojas?color=blue)](https://github.com/felruizrojas/felruizrojas/graphs/contributors)
