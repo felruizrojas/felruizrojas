@@ -1,38 +1,30 @@
-# 👋 ¡Hola! Soy Felipe Andrés Ruiz Rojas
+# Hi there, I’m Felipe Ruiz Rojas
 
-Soy **Ingeniero en Informática** en formación.
+## About me
+### I’m a computer engineering student.
 
----
-
-### 🚀 Tecnologías y herramientas
-**Lenguajes y frameworks:**
-- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-
-**Herramientas y plataformas:**
-- ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
-- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-
----
-
-### 🎯 Áreas de interés
-- Ciencia de datos.
-- Inteligencia artificial.
-- Desarrollo de software.
-
----
-
-### 📬 Conéctate conmigo
-- [LinkedIn](https://www.linkedin.com/)  
-- **Correo:** tuemail@example.com
+![Software Development](https://img.shields.io/badge/Software_Development-Active-green)
+![Neurosciences](https://img.shields.io/badge/Neurosciences-Active-blue)
+![Data Science](https://img.shields.io/badge/Data_Science-Active-orange)
+[![Status](https://img.shields.io/badge/status-updating-brightgreen.svg)](https://github.com/felruizrojas/felruizrojas)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=felruizrojas)
+[![Contributors](https://img.shields.io/github/contributors/felruizrojas/felruizrojas?color=blue)](https://github.com/felruizrojas/felruizrojas/graphs/contributors)
+[![Stars](https://img.shields.io/github/stars/felruizrojas/felruizrojas.svg?logo=github)](https://github.com/felruizrojas/felruizrojas/stargazers)
+[![Forks](https://img.shields.io/github/forks/felruizrojas/felruizrojas.svg?color=blue&logo=github)](https://github.com/felruizrojas/felruizrojas/network/members)
 
 
 
-### 📊 Estadísticas de GitHub
-![Visitas al perfil](https://komarev.com/ghpvc/?username=FelipeRuiz&label=Profile%20views&color=0e75b6&style=plastic)  
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeRuiz&layout=compact&theme=tokyonight)  
-![Estadísticas generales](https://github-readme-stats.vercel.app/api?username=FelipeRuiz&show_icons=true&theme=tokyonight)  
-![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=FelipeRuiz&theme=tokyonight)  
 
----
+
+## Programming Languages and Frameworks
+[![Programming Skills](https://skillicons.dev/icons?i=java,js,python,react,jquery)](https://skillicons.dev)
+
+## Tools and Platforms
+[![Tools and Platforms](https://skillicons.dev/icons?i=html,css,git,github,vscode,mysql,aws,azure,figma,discord,netbeans)](https://skillicons.de)
+
+## Connect with Me 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%40felandres-blue?logo=linkedin&logoColor=white)](http://linkedin.com/in/felandres)
+[![Gmail](https://img.shields.io/badge/Email-%20felruiz.a%40gmail.com-red?logo=gmail&logoColor=white)](mailto:felruiz.a@gmail.com)
+
+## Languages Used in My Repositories
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felruizrojas&layout=compact&hide_title=true)](https://github.com/felruizrojas)
