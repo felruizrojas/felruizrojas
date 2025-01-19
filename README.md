@@ -13,11 +13,11 @@
 [![Stars](https://img.shields.io/github/stars/felruizrojas/felruizrojas.svg?logo=github)](https://github.com/felruizrojas/felruizrojas/stargazers)
 [![Forks](https://img.shields.io/github/forks/felruizrojas/felruizrojas.svg?color=blue&logo=github)](https://github.com/felruizrojas/felruizrojas/network/members)
 
-## 🖥️ Programming Languages and Frameworks
-[![Programming Skills](https://skillicons.dev/icons?i=python,java,js,react,jquery)](https://skillicons.dev)
+## 🖥️ Languages and Frameworks
+[![Programming Skills](https://skillicons.dev/icons?i=python,java,js,html,css,mysql,react,jquery)](https://skillicons.dev)
 
 ## 🛠️ Tools and Platforms
-[![Tools and Platforms](https://skillicons.dev/icons?i=html,css,mysql,aws,azure,figma,discord,git,github,vscode)](https://skillicons.de)
+[![Tools and Platforms](https://skillicons.dev/icons?i=aws,azure,figma,discord,git,github,vscode)](https://skillicons.de)
 ![apache-netbeans](https://img.icons8.com/color/50/apache-netbeans.png)
 ![wix](https://img.icons8.com/windows/50/wix.png)
 
