@@ -14,7 +14,7 @@
 [![Forks](https://img.shields.io/github/forks/felruizrojas/felruizrojas.svg?color=blue&logo=github)](https://github.com/felruizrojas/felruizrojas/network/members)
 
 ## 🖥️ Languages and Frameworks
-[![Programming Skills](https://skillicons.dev/icons?i=python,java,js,html,css,mysql,react,jquery)](https://skillicons.dev)
+[![Programming Skills](https://skillicons.dev/icons?i=python,java,js,html,css,react,mysql)](https://skillicons.dev)
 
 ## 🛠️ Tools and Platforms
 [![Tools and Platforms](https://skillicons.dev/icons?i=aws,azure,figma,discord,git,github,vscode)](https://skillicons.de)
