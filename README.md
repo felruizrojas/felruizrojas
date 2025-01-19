@@ -20,6 +20,8 @@
 [![Tools and Platforms](https://skillicons.dev/icons?i=aws,azure,figma,discord,git,github,vscode)](https://skillicons.de)
 ![apache-netbeans](https://img.icons8.com/color/50/apache-netbeans.png)
 ![wix](https://img.icons8.com/windows/50/wix.png)
+![Trello](https://img.icons8.com/color/50/trello.png)
+![Atlassian](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-atlassian-an-australian-enterprise-software-company-that-develops-products-for-software-developers-logo-color-tal-revivo.png)
 
 ## 🚀 Projects
 - **Nothofagus Solitario [in progress]:** This website is dedicated to my solo travel adventures, offering tips and inspiration for those who wish to explore the world on their own.
