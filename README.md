@@ -1,7 +1,7 @@
 # 👋 Hi there, I’m Felipe Ruiz Rojas
 
 ## 👨‍💻 About me
-I’m a computer engineering student.
+### I’m a computer engineering student.
 
 ##
 ![Software Development](https://img.shields.io/badge/Software_Development-green)
@@ -14,10 +14,12 @@ I’m a computer engineering student.
 [![Forks](https://img.shields.io/github/forks/felruizrojas/felruizrojas.svg?color=blue&logo=github)](https://github.com/felruizrojas/felruizrojas/network/members)
 
 ## 🖥️ Programming Languages and Frameworks
-[![Programming Skills](https://skillicons.dev/icons?i=java,js,python,react,jquery)](https://skillicons.dev)
+[![Programming Skills](https://skillicons.dev/icons?i=python,java,js,react,jquery)](https://skillicons.dev)
 
 ## 🛠️ Tools and Platforms
-[![Tools and Platforms](https://skillicons.dev/icons?i=html,css,git,github,vscode,mysql,aws,azure,figma,discord,netbeans)](https://skillicons.de)
+[![Tools and Platforms](https://skillicons.dev/icons?i=html,css,mysql,aws,azure,figma,discord,git,github,vscode)](https://skillicons.de)
+![apache-netbeans](https://img.icons8.com/color/50/apache-netbeans.png)
+![wix](https://img.icons8.com/windows/50/wix.png)
 
 ## 🚀 Projects
 - **Nothofagus Solitario [in progress]:** This website is dedicated to my solo travel adventures, offering tips and inspiration for those who wish to explore the world on their own.
