@@ -1,7 +1,7 @@
 # 👋 Hi there, I’m Felipe Ruiz Rojas
 
 ## 👨‍💻 About me
-### I’m a computer engineering student.
+I’m a computer engineering student.
 
 ##
 ![Software Development](https://img.shields.io/badge/Software_Development-green)
