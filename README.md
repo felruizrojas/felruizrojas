@@ -1,7 +1,10 @@
 # 👋 Hi there, I’m Felipe Ruiz Rojas
 
 ## 👨‍💻 About me
-### I’m a computer engineering student.
+- Computer Engineering student, with a particular interest in Data Science.
+- I have experience in web development through personal projects.
+- My profile is multidisciplinary, with knowledge in pedagogy, social sciences, and learning neuroscience.
+- I am an enthusiast of trekking, which has allowed me to strengthen skills such as resilience, leadership, and collaboration.
 
 ##
 ![Software Development](https://img.shields.io/badge/Software_Development-green)
