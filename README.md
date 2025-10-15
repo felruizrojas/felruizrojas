@@ -10,9 +10,11 @@
 ![Software Development](https://img.shields.io/badge/Software_Development-green)
 ![Neurosciences](https://img.shields.io/badge/Neurosciences-blue)
 ![Data Science](https://img.shields.io/badge/Data_Science-orange)
+
 [![Status](https://img.shields.io/badge/status-updating-brightgreen.svg)](https://github.com/felruizrojas/felruizrojas)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=felruizrojas)
 [![Contributors](https://img.shields.io/github/contributors/felruizrojas/felruizrojas?color=blue)](https://github.com/felruizrojas/felruizrojas/graphs/contributors)
+
 [![Stars](https://img.shields.io/github/stars/felruizrojas/felruizrojas.svg?logo=github)](https://github.com/felruizrojas/felruizrojas/stargazers)
 [![Forks](https://img.shields.io/github/forks/felruizrojas/felruizrojas.svg?color=blue&logo=github)](https://github.com/felruizrojas/felruizrojas/network/members)
 
