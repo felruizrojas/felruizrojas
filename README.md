@@ -1,15 +1,14 @@
 # 👋 Hi there, I’m Felipe Ruiz Rojas
 
-## 👨‍💻 About me
-- Computer Engineering student, with a particular interest in Data Science.
-- I have experience in web development through personal projects.
-- My profile is multidisciplinary, with knowledge in pedagogy, social sciences, and learning neuroscience.
-- I am an enthusiast of trekking, which has allowed me to strengthen skills such as resilience, leadership, and collaboration.
+## 👨‍💻 About Me
+- 🎓 I'm a Computer Engineering student with a passion for building and learning.
+- 💻 I have experience in web development through personal and collaborative projects.
+- 🧩 My background is multidisciplinary, with knowledge in pedagogy, social sciences, and learning neuroscience.
 
-##
-![Software Development](https://img.shields.io/badge/Software_Development-green)
-![Neurosciences](https://img.shields.io/badge/Neurosciences-blue)
-![Data Science](https://img.shields.io/badge/Data_Science-orange)
+## 🚀 Areas of Interest  
+![Software Development](https://img.shields.io/badge/%F0%9F%92%BB_Software_Development-2E8B57?style=for-the-badge)
+![Data Engineering](https://img.shields.io/badge/%F0%9F%97%83%EF%B8%8F_Data_Engineering-1E90FF?style=for-the-badge)
+![Learning Neuroscience](https://img.shields.io/badge/%F0%9F%A7%A0_Learning_Neuroscience-FFD700?style=for-the-badge)
 
 [![Status](https://img.shields.io/badge/status-updating-brightgreen.svg)](https://github.com/felruizrojas/felruizrojas)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=felruizrojas)
