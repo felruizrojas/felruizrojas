@@ -38,7 +38,6 @@
 
 
 
-[![Programming Skills](https://skillicons.dev/icons?i=html,css,bootstrap,react,typescript)](https://skillicons.dev)
+## 🍰 Front-Pastelería — Repo Stats
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felruizrojas&repo=front-pasteleria)](https://github.com/felruizrojas/front-pasteleria)
 
-## 📊 Lenguajes usados en este repositorio
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felruizrojas&repo=front-pasteleria&layout=compact&hide_title=true)](https://github.com/felruizrojas/front-pasteleria)
