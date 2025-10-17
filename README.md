@@ -35,3 +35,10 @@
 
 ## 📈 Languages Used in My Repositories
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felruizrojas&layout=compact&hide_title=true)](https://github.com/felruizrojas)
+
+
+
+[![Programming Skills](https://skillicons.dev/icons?i=html,css,bootstrap,react,typescript)](https://skillicons.dev)
+
+## 📊 Lenguajes usados en este repositorio
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felruizrojas&repo=front-pasteleria&layout=compact&hide_title=true)](https://github.com/felruizrojas/front-pasteleria)
