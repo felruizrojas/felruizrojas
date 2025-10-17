@@ -35,9 +35,3 @@
 
 ## 📈 Languages Used in My Repositories
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felruizrojas&layout=compact&hide_title=true)](https://github.com/felruizrojas)
-
-
-
-## 🍰 Front-Pastelería — Repo Stats
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felruizrojas&repo=front-pasteleria)](https://github.com/felruizrojas/front-pasteleria)
-
