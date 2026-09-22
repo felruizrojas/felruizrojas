@@ -18,13 +18,10 @@
 [![Forks](https://img.shields.io/github/forks/felruizrojas/felruizrojas.svg?color=blue&logo=github)](https://github.com/felruizrojas/felruizrojas/network/members)
 
 ## 🖥️ Languages and Frameworks
-[![Programming Skills](https://skillicons.dev/icons?i=python,java,js,html,css,react,mysql)](https://skillicons.dev)
+[![Programming Skills](https://skillicons.dev/icons?i=java,js,python,react,angular,sql,mongodb)](https://skillicons.dev)
 
 ## 🛠️ Tools and Platforms
-[![Tools and Platforms](https://skillicons.dev/icons?i=aws,azure,figma,discord,git,github,vscode)](https://skillicons.de)
-![apache-netbeans](https://img.icons8.com/color/50/apache-netbeans.png)
-![Trello](https://img.icons8.com/color/50/trello.png)
-![Atlassian](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-atlassian-an-australian-enterprise-software-company-that-develops-products-for-software-developers-logo-color-tal-revivo.png)
+[![Tools and Platforms](https://skillicons.dev/icons?i=aws,azure,git,github,vscode)](https://skillicons.de)
 
 ## 📬 Connect with Me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40felandres-blue?logo=linkedin&logoColor=white)](http://linkedin.com/in/felandres)
