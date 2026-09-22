@@ -18,7 +18,7 @@
 [![Forks](https://img.shields.io/github/forks/felruizrojas/felruizrojas.svg?color=blue&logo=github)](https://github.com/felruizrojas/felruizrojas/network/members)
 
 ## 🖥️ Languages and Frameworks
-[![Programming Skills](https://skillicons.dev/icons?i=java,js,python,react,angular,sql,mongodb)](https://skillicons.dev)
+[![Programming Skills](https://skillicons.dev/icons?i=java,js,python,angular,react,postgresql,mongodb)](https://skillicons.dev)
 
 ## 🛠️ Tools and Platforms
 [![Tools and Platforms](https://skillicons.dev/icons?i=aws,azure,git,github,vscode)](https://skillicons.de)
@@ -27,5 +27,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40felandres-blue?logo=linkedin&logoColor=white)](http://linkedin.com/in/felandres)
 [![Gmail](https://img.shields.io/badge/Email-%20felruiz.a%40gmail.com-red?logo=gmail&logoColor=white)](mailto:felruiz.a@gmail.com)
 
-## 📈 Languages Used in My Repositories
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felruizrojas&layout=compact&hide_title=true)](https://github.com/felruizrojas)
+## 📈 Languages Used in My Repositories 
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=felruizrojas&layout=compact&hide&theme=radical)](https://github.com/felruizrojas)
