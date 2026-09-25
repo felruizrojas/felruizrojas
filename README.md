@@ -18,10 +18,10 @@
 [![Forks](https://img.shields.io/github/forks/felruizrojas/felruizrojas.svg?color=blue&logo=github)](https://github.com/felruizrojas/felruizrojas/network/members)
 
 ## 🖥️ Languages and Frameworks
-[![Programming Skills](https://skillicons.dev/icons?i=java,js,python,angular,react,postgresql,mongodb)](https://skillicons.dev)
+[![Programming Skills](https://skillicons.dev/icons?i=java,js,ts,python,angular,react,spring,nodejs,postgresql,mongodb)](https://skillicons.dev)
 
 ## 🛠️ Tools and Platforms
-[![Tools and Platforms](https://skillicons.dev/icons?i=aws,azure,git,github,vscode)](https://skillicons.de)
+[![Tools and Platforms](https://skillicons.dev/icons?i=apple,aws,azure,docker,kubernetes,git,github,vscode,postman,notion)](https://skillicons.de)
 
 ## 📬 Connect with Me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40felandres-blue?logo=linkedin&logoColor=white)](http://linkedin.com/in/felandres)
