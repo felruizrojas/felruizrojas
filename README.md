@@ -29,3 +29,5 @@
 
 ## 📈 Languages Used in My Repositories 
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=felruizrojas&layout=compact&hide&theme=radical)](https://github.com/felruizrojas)
+
+![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruizRojasFel&theme=github_dark)
